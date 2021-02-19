@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week5</string>
+    <string name="message"> please pick one of the following to order:</string>
+    <string name="btn_text1">Choose One</string>
+    <string name="btn_text2">Order</string>
+    <string-array name="FruitItem">
+        <item>Banana</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Grapes</item>
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Peach</item>
+    </string-array>
+</resources>
